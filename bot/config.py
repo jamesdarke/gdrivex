@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5192889493:AAFa6oVE5_HFjLvh82g7oWTxH2QaJKZIdxw"
     APP_ID = "18564150"
     API_HASH = "4ba2c266b0058cd673133612b884c05d"
-    DATABASE_URL = "postgres://njowttjk:9bSp7PBiZ8pkE6MkGjcoOq3mM4vcBhtw@raja.db.elephantsql.com/njowttjk"
+    DATABASE_URL = "postgres://vxhggppbrgraay:af3d188d3eb3f9eef92f5acda1e1f76a5097eaa7058a9347eaad1e00aaba9816@ec2-99-80-170-190.eu-west-1.compute.amazonaws.com:5432/d8dhockjo0b0oe"
     SUDO_USERS = "5253508576" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "141895789875-o42c88aa7qng99vo4d4ti7gp60gp2b7v.apps.googleusercontent.com"
