@@ -4,8 +4,10 @@ class config:
     API_HASH = "4ba2c266b0058cd673133612b884c05d"
     DATABASE_URL = "postgres://njowttjk:9bSp7PBiZ8pkE6MkGjcoOq3mM4vcBhtw@raja.db.elephantsql.com/njowttjk"
     SUDO_USERS = "5253508576" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/agprojectschat"
     DOWNLOAD_DIRECTORY = "./downloads/"
+    G_DRIVE_CLIENT_ID = "141895789875-o42c88aa7qng99vo4d4ti7gp60gp2b7v.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/agprojectschat"
 
 
 class BotCommands:
